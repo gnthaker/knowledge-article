@@ -28,6 +28,9 @@ You have successfully connected your ZapPay to your bank account!
 
 Once you've completed these steps, your bank account will be disconnected from your ZapPay account. Please note that there might be additional steps or requirements depending on your specific ZapPay account and region. It's always recommended to consult ZapPay's official help center or customer support for the most accurate and up-to-date instructions.
 
+## To create an opportunity in Salesforce
+To create an opportunity in Salesforce, navigate to the Opportunities tab and click "New." Fill in the required fields such as opportunity name, account, stage, close date, and expected revenue. You can also add additional details like description, products, and contacts. Once you've entered all the necessary information, click "Save" to create the opportunity.
+
 ## Additional Resources
 
 -   [Add money into my ZapPay account](file:///Users/gaurav/Desktop/learnings/knowledge_article.html#)
