@@ -18,6 +18,16 @@ Find out how to connect your ZapPay account to your bank account to send money, 
 
 You have successfully connected your ZapPay to your bank account!
 
+## To disconnect your bank account from ZapPay, follow these steps:
+
+1. Log in to your ZapPay account.
+2. Navigate to your profile settings.
+3. Look for the section related to bank account connections.
+4. You should find an option to "Disconnect Bank Account" or a similar phrase.
+5. Click on this option and confirm your decision.
+
+Once you've completed these steps, your bank account will be disconnected from your ZapPay account. Please note that there might be additional steps or requirements depending on your specific ZapPay account and region. It's always recommended to consult ZapPay's official help center or customer support for the most accurate and up-to-date instructions.
+
 ## Additional Resources
 
 -   [Add money into my ZapPay account](file:///Users/gaurav/Desktop/learnings/knowledge_article.html#)
