@@ -34,6 +34,9 @@ To create an opportunity in Salesforce, navigate to the Opportunities tab and cl
 ## To create a new Customer in Salesforce
 To create a new customer in Salesforce CRM, navigate to the "Contacts" tab and click "New." Fill in the required fields such as first name, last name, company name, job title, and email address. You can also add additional information like phone number, mailing address, and any relevant notes. Once you've entered all the necessary details, click "Save" to create the new customer record.
 
+## To create a new Address in Salesforce
+To create a new address in Salesforce CRM, navigate to the "Addresses" related list on the relevant record (e.g., Contact, Account). Click "New" to create a new address record. Fill in the required fields such as street, city, state, country, and postal code. You can also add additional details like address type (e.g., billing, shipping) and is primary. Once you've entered all the necessary information, click "Save" to create the new address record.
+
 ## Additional Resources
 
 -   [Add money into my ZapPay account](file:///Users/gaurav/Desktop/learnings/knowledge_article.html#)
