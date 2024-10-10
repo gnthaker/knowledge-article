@@ -36,10 +36,3 @@ To create a new customer in Salesforce CRM, navigate to the "Contacts" tab and c
 
 ## To create a new Address in Salesforce
 To create a new address in Salesforce CRM, navigate to the "Addresses" related list on the relevant record (e.g., Contact, Account). Click "New" to create a new address record. Fill in the required fields such as street, city, state, country, and postal code. You can also add additional details like address type (e.g., billing, shipping) and is primary. Once you've entered all the necessary information, click "Save" to create the new address record.
-
-## Additional Resources
-
--   [Add money into my ZapPay account](file:///Users/gaurav/Desktop/learnings/knowledge_article.html#)
--   [Transfer money from ZapPay into my bank account](file:///Users/gaurav/Desktop/learnings/knowledge_article.html#)
--   [Disconnect bank account](file:///Users/gaurav/Desktop/learnings/knowledge_article.html#)
--   [Add credit card to ZapPay account](file:///Users/gaurav/Desktop/learnings/knowledge_article.html#)
