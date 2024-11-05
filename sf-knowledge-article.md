@@ -90,7 +90,7 @@ Before you begin, ensure you have the following:
 Creating a new customer in Salesforce is a straightforward process that involves logging in, accessing the Accounts tab, and filling in the required fields. By following these steps, you can effectively manage your customer relationships and streamline your sales processes.
 
 
-# Opportunity Creation in Salesforce**
+# Opportunity Creation in Salesforce
 
 ## Objective
 To create a new opportunity in Salesforce, you need to follow these steps:
