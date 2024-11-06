@@ -124,3 +124,29 @@ To create a new opportunity in Salesforce, you need to follow these steps:
 - You can use the "Opportunity Forecasting" feature to predict the likelihood of winning an opportunity based on historical data.
 - You can use the "Opportunity Teams" feature to assign opportunities to specific teams or users.
 - You can use the "Opportunity Products" feature to manage the products or services associated with an opportunity.
+
+# Linking Leads and Opportunities in Salesforce
+
+To link a lead to an opportunity in Salesforce, follow these steps:
+
+1. **Navigate to the Lead Record**
+   - Go to the Leads tab in Salesforce.
+   - Find the lead you want to link to an opportunity and click on it.
+
+2. **Convert the Lead to an Opportunity**
+   - Click on the "Convert" button at the top of the page.
+   - Select "Opportunity" as the conversion type.
+   - Fill in the necessary details for the opportunity, such as the opportunity name, amount, and close date.
+   - Click "Convert" to create the opportunity and link it to the lead.
+
+3. **Verify the Link**
+   - After the lead is converted to an opportunity, you should see a link to the opportunity on the lead record.
+   - Click on this link to view the opportunity details.
+
+4. **Link Multiple Leads to an Opportunity**
+   - If you want to link multiple leads to an opportunity, you can do so by editing the opportunity record.
+   - Go to the Opportunities tab in Salesforce.
+   - Find the opportunity you want to link leads to and click on it.
+   - Click on the "Related" tab and then "Leads".
+   - Click "New" to create a new lead record or select an existing lead to link to the opportunity.
+   - Fill in the necessary details for the lead and click "Save" to link it to the opportunity.
