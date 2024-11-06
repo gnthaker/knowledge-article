@@ -150,3 +150,33 @@ To link a lead to an opportunity in Salesforce, follow these steps:
    - Click on the "Related" tab and then "Leads".
    - Click "New" to create a new lead record or select an existing lead to link to the opportunity.
    - Fill in the necessary details for the lead and click "Save" to link it to the opportunity.
+
+# How to Create a Campaign in Salesforce
+
+1. **Navigate to the Campaigns tab**
+   - Click on the App Launcher (9 dots) in the top left corner.
+   - Select "Campaigns" from the list of apps.
+
+2. **Click on the "New Campaign" button**
+   - This button is located at the top right corner of the page.
+
+3. **Fill in the Campaign Details**
+   - **Name**: Enter a name for your campaign.
+   - **Start Date**: Select the start date for your campaign.
+   - **End Date**: Select the end date for your campaign.
+   - **Status**: Choose the status of your campaign (e.g., Planned, In Progress, Completed).
+   - **Industry**: Select the industry that your campaign is related to.
+   - **Campaign Type**: Choose the type of campaign (e.g., Event, Direct Mail, Email, etc.).
+
+4. **Click "Save"**
+   - Once you've filled in all the necessary details, click the "Save" button at the bottom of the page.
+
+5. **Add Campaign Members**
+   - After saving your campaign, you can add members to it.
+   - Click on the "Campaign Members" related list.
+   - Click "New" to add a new member.
+   - Select the member you want to add and click "Save".
+
+6. **Track Campaign Performance**
+   - You can track the performance of your campaign by viewing the "Campaign Reports" related list.
+   - Click on the "Reports" tab to view your campaign reports.
